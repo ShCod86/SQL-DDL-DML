@@ -1,0 +1,1 @@
+select name, surname from netology.persons where sity_of_living = 'Moscow';
